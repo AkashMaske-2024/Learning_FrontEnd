@@ -1,0 +1,15 @@
+create folder at local at your place
+
+1) Create folder at local any where
+2) GO to this folder 
+3) click or url path on top and type cmd in the url path and enter        --> cmd open
+4) Go to  GitHub select repository, click on <>code button, and copy HTTPS-url.
+5)Go to opened cmd type ==>>git clone https-url, and enter      --> repository cloned in current folder 
+6)  Open cloned repository folder click on path url and add cmd
+7) Copy any data you want to send to GitHub by copy and pasting them
+8) Push data to GitHub
+        1. ==>git add .   ( if checking status ==>git status
+        2. ==>git commit -m "anay messege here"
+        3. ==>git push -u origin main
+        4. for first time we need to authenticate account 
+        5. go to repsotory and refresh...
